@@ -1,40 +1,6 @@
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <HTML>
-<HEAD>
-	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
-	<TITLE></TITLE>
-	<META NAME="GENERATOR" CONTENT="LibreOffice 4.1.6.2 (Linux)">
-	<META NAME="AUTHOR" CONTENT="nithya">
-	<META NAME="CREATED" CONTENT="20200420;133400000000000">
-	<META NAME="CHANGEDBY" CONTENT="autonomus">
-	<META NAME="CHANGED" CONTENT="20201210;113000000000000">
-	<META NAME="AppVersion" CONTENT="12.0000">
-	<META NAME="Creator" CONTENT="Microsoft® Word 2010">
-	<META NAME="DocSecurity" CONTENT="0">
-	<META NAME="HyperlinksChanged" CONTENT="false">
-	<META NAME="LinksUpToDate" CONTENT="false">
-	<META NAME="ScaleCrop" CONTENT="false">
-	<META NAME="ShareDoc" CONTENT="false">
-	<STYLE TYPE="text/css">
-	<!--
-		@page { size: 8.5in 11in; margin: 0.33in }
-		P { margin-left: 0.07in; margin-top: 0.09in; margin-bottom: 0in; direction: ltr; widows: 2; orphans: 2 }
-		P.western { font-family: "Times New Roman", serif; font-size: 12pt }
-		P.cjk { font-family: "Times New Roman"; font-size: 12pt }
-		P.ctl { font-family: "Times New Roman"; font-size: 12pt }
-		H1 { margin-left: 0.07in; margin-top: 0in; margin-bottom: 0in; direction: ltr; widows: 2; orphans: 2; text-decoration: underline; page-break-after: auto }
-		H1.western { font-family: "Times New Roman", serif; font-size: 12pt }
-		H1.cjk { font-family: "Times New Roman"; font-size: 12pt }
-		H1.ctl { font-family: "Times New Roman"; font-size: 12pt }
-		H2 { margin-top: 0.14in; margin-bottom: 0in; direction: ltr; color: #4f81bd; page-break-inside: avoid; widows: 2; orphans: 2 }
-		H2.western { font-family: "Cambria", serif; font-size: 13pt }
-		H2.cjk { font-family: "Times New Roman"; font-size: 13pt }
-		H2.ctl { font-family: ; font-size: 13pt }
-		A:link { color: #0000ff; so-language: zxx }
-	-->
-	</STYLE>
-</HEAD>
 <BODY LANG="en-US" LINK="#0000ff" DIR="LTR" STYLE="border: 1px solid #000001; padding-top: 0.11in; padding-bottom: 0in; padding-left: 0.47in; padding-right: 0.74in">
 <P ALIGN=CENTER STYLE="margin-left: 1.15in; margin-right: 1.14in; margin-top: 0.05in">
 <FONT SIZE=5 STYLE="font-size: 17pt"><FONT COLOR="#0000ff">MORAMPUDI
@@ -66,13 +32,13 @@ Sri Chaitanya Jr. College, Vijayawada – 95.4%  2016 - 2018</P>
 School </B></FONT><FONT SIZE=3>– Sri Chaitanya School, Gosala (SSC)
 – 9.8/10  2015 – 2016</FONT></FONT></P>
 <H1 CLASS="western" STYLE="margin-top: 0.1in"><U>TECHNICALSKILLS	</U></H1>
-Programming
-Languages:
+<H3>Programming
+Languages:</H3>
 C, C++, Python, R</SPAN></SPAN>
-Tools/Frameworks:
+		<H3>Tools/Frameworks:</H3>
 SQL
 
-Web Development: HTML,
+<H3>Web Development:</H3> HTML,
 CSS, JAVASCRIPT, JQUERY, BOOTSTRAP</SPAN></SPAN>
 <H1 CLASS="western" STYLE="margin-left: 0.07in; margin-top: 0.01in; margin-bottom: 0.01in">
 <U>PROJECTS	</U></H1>
