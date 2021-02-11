@@ -2,19 +2,20 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <HTML>
 <BODY LANG="en-US" LINK="#0000ff" DIR="LTR" STYLE="border: 1px solid #000001; padding-top: 0.11in; padding-bottom: 0in; padding-left: 0.47in; padding-right: 0.74in">
-<P ALIGN=CENTER STYLE="margin-left: 1.15in; margin-right: 1.14in; margin-top: 0.05in">
-<FONT SIZE=5 STYLE="font-size: 17pt"><FONT COLOR="#0000ff">MORAMPUDI
-DEVI SOWMYA</FONT></FONT></P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-left: 0.8in; margin-right: 0.78in; text-indent: -0.01in; margin-top: 0in">
-<FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2>DOB:
-19</FONT></FONT><SUP><FONT FACE="Arial, serif"><FONT SIZE=2>th </FONT></FONT></SUP><FONT FACE="Arial, serif"><FONT SIZE=2>Apr
-2001· <A HREF="mailto:morampudidevisowmya008@gmail.com%20">morampudidevisowmya008@gmail.com
-</A>· +91-8331899356· </FONT></FONT></FONT>
-</P>
-<P CLASS="western" ALIGN=CENTER STYLE="margin-left: 0.8in; margin-right: 0.78in; text-indent: -0.01in; margin-top: 0in">
-<FONT SIZE=2 STYLE="font-size: 11pt"><FONT FACE="Arial, serif"><FONT SIZE=2>LinkedIn:</FONT></FONT><FONT COLOR="#0070c0"><FONT FACE="Arial, serif"><FONT SIZE=2><U>www.linkedin.com/in/devi-sowmya</U></FONT></FONT></FONT></FONT></P>
-<P CLASS="western" STYLE="margin-left: 0in; margin-top: 0in"><BR>
-</P>
+<h1 align = "center">MORAMPUDI DEVI SOWMYA</h1>
+	<p align = "center">DOB: 19th Apr 2001· <a href="morampudidevisowmya008@gmail.com">morampudidevisowmya008@gmail.com</a> +91-8331899356·</p>
+	<p align = "center">LinkedIn:<a href="www.linkedin.com/in/devi-sowmya">www.linkedin.com/in/devi-sowmya</a></p>
+
+
+
+
+
+
+
+
+
+
+
 <H1 CLASS="western" STYLE="margin-top: 0.01in"><U>CAREER OBJECTIVE	</U></H1>
 <P CLASS="western" STYLE="margin-left: 0.07in; margin-right: 0.06in; margin-top: 0.01in; line-height: 151%">
 To work in a highly competitive environment where in I can render my
