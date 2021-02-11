@@ -1,3 +1,4 @@
+
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <HTML>
 <HEAD>
@@ -65,14 +66,14 @@ Sri Chaitanya Jr. College, Vijayawada – 95.4%  2016 - 2018</P>
 School </B></FONT><FONT SIZE=3>– Sri Chaitanya School, Gosala (SSC)
 – 9.8/10  2015 – 2016</FONT></FONT></P>
 <H1 CLASS="western" STYLE="margin-top: 0.1in"><U>TECHNICALSKILLS	</U></H1>
-<H1 CLASS="western" STYLE="margin-top: 0.1in"><SPAN STYLE="text-decoration: none">Programming
-Languages:</SPAN><SPAN STYLE="text-decoration: none"><SPAN STYLE="font-weight: normal">
-C, C++, Python, R</SPAN></SPAN></H1>
-<H1 CLASS="western" STYLE="margin-top: 0.1in"><SPAN STYLE="text-decoration: none">Tools/Frameworks:
-</SPAN><SPAN STYLE="text-decoration: none"><SPAN STYLE="font-weight: normal">SQL</SPAN></SPAN></H1>
-<H1 CLASS="western" STYLE="margin-left: 0.07in; margin-top: 0.1in; margin-bottom: 0.01in">
-<SPAN STYLE="text-decoration: none">Web Development: </SPAN><SPAN STYLE="text-decoration: none"><SPAN STYLE="font-weight: normal">HTML,
-CSS, JAVASCRIPT, JQUERY, BOOTSTRAP</SPAN></SPAN></H1>
+Programming
+Languages:
+C, C++, Python, R</SPAN></SPAN>
+Tools/Frameworks:
+SQL
+
+Web Development: HTML,
+CSS, JAVASCRIPT, JQUERY, BOOTSTRAP</SPAN></SPAN>
 <H1 CLASS="western" STYLE="margin-left: 0.07in; margin-top: 0.01in; margin-bottom: 0.01in">
 <U>PROJECTS	</U></H1>
 <H2 CLASS="western" STYLE="margin-right: 0.21in; text-indent: 0.07in; margin-top: 0.01in">
